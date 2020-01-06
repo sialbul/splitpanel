@@ -6,9 +6,12 @@ import YourComponent from '../src/components/splitpanel/index';
 function App() {
   return (
     <div className="App">
-      <button style={{width:"50px"}} ></button>
-    <YourComponent />
-  </div>
+      Hello
+      <button>Click me</button>
+     <div className="mainScreen">
+        <YourComponent/>
+     </div>
+    </div>
   );
 }
 
