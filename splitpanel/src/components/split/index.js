@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import SplitPanel from '../splitPanel/index';
+import SplitPanel from '../splitpanel/index';
 import 'react-splitter-layout/lib/index.css';
 import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
