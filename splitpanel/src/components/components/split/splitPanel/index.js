@@ -3,7 +3,7 @@ import SplitterLayout from 'react-splitter-layout';
 import 'react-splitter-layout/lib/index.css';
  
 
-export default (YourComponent) => {
+export default (SplitPanel) => {
   return (
   <div>
     <SplitterLayout>
